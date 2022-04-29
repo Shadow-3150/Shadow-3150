@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shadow-3150
 - 👀 I’m interested in ... learning to code and build a strong foundation in Machine Learning
 - 🌱 I’m currently learning ... How to use Python for Space Science
-- 💞️ I’m looking to collaborate on ... Any interesting project, especially on Astrodynamics0
+- 💞️ I’m looking to collaborate on ... Any interesting project, especially on Astrodynamics
 
 
 <!---
